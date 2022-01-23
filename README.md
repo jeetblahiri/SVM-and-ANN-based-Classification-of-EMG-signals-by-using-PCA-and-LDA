@@ -10,8 +10,10 @@ This technique has the potential to recognize complex patterns and on several oc
 such as Artificial Neural Network (ANN), Linear Discriminant Analysis (LDA), and Principal Component Analysis(PCA).  
 
 > We have used different feature extraction methods to extract suitable and distinctive features from the dataset for ease of classification. 
->> We have used two different data analysis methods named Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) for dimensionality reduction of the 
+
+> We have used two different data analysis methods named Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) for dimensionality reduction of the 
 feature set for the sake of reducing the computational cost. 
->>> Finally we have used two different classifiers SVM and MLP for the classification of different action classes.
+
+> Finally we have used two different classifiers SVM and MLP for the classification of different action classes.
 
 
