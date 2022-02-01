@@ -7,7 +7,7 @@ The feature classification can be carried out on the time domain or by using oth
 time scale, and time-frequency, amongst others. One of the main methods used for pattern recognition in myoelectric signals is the Support Vector Machines (SVM) 
 technique whose primary function is to identify an n-dimensional hyperplane to separate a set of input feature points into different classes. 
 This technique has the potential to recognize complex patterns and on several occasions, it has proven its worth when compared to other classifiers 
-such as Artificial Neural Network (ANN), Linear Discriminant Analysis (LDA), and Principal Component Analysis(PCA).  
+such as Artificial Neural Network (ANN), Linear Discriminant Analysis (LDA), and Principal Component Analysis(PCA).  The maximum accuracy obtained by the analysis is more than 96%.
 
 > We have used different feature extraction methods to extract suitable and distinctive features from the dataset for ease of classification. 
 
